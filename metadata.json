@@ -1,0 +1,5 @@
+{
+  "name": "Memory Shadow",
+  "description": "An AI-powered privacy-first predictive tool that tracks digital interaction patterns to estimate memory retention and forecast information loss.",
+  "requestFramePermissions": []
+}
